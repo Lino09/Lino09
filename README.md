@@ -13,7 +13,7 @@ honor to my guild.
 
 - 💬 Ask me about Anything! we always can explore new realms to find it out. I will be your squire.
 
-- 📫 How to reach me in my [village](https://twitter.com/AbelHerreraZam1) or in my [
+- 📫 You can reach to me in my [village](https://twitter.com/AbelHerreraZam1) or in my [
 guild house](https://www.linkedin.com/in/abelherreraz/)
 
 <br>
@@ -34,14 +34,14 @@ guild house](https://www.linkedin.com/in/abelherreraz/)
 
 <br>
 
-<img src="./assets/html.png" width="64px" />
-<img src="./assets/cssl.png" width="64px" />
-<img src="./assets/js.png" width="64px" />
-<img src="./assets/react.png" width="64px" />
-<img src="./assets/redux.png" width="64px" />
-<img src="./assets/ruby.png" width="64px" />
-<img src="./assets/postgresql.png" width="64px" />
-<img src="./assets/jest.png" width="64px" />
+<img align="left" src="./assets/html.png" width="64px" />
+<img align="left" src="./assets/cssl.png" width="64px" />
+<img align="left" src="./assets/js.png" width="64px" />
+<img align="left" src="./assets/react.png" width="64px" />
+<img align="left" src="./assets/redux.png" width="64px" />
+<img align="left" src="./assets/ruby.png" width="64px" />
+<img align="left" src="./assets/postgresql.png" width="64px" />
+<img align="left" src="./assets/jest.png" width="64px" />
 
 <br>
 <br>
