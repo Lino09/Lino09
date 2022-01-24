@@ -47,7 +47,6 @@ guild house](https://www.linkedin.com/in/abelherreraz/)
 
 # Achievements that brougth glory to my guild
 
-<br>
 
 <img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44240667" width="128px" />
 <img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/41875040" width="128px" />
