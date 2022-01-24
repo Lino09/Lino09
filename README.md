@@ -41,12 +41,12 @@ guild house](https://www.linkedin.com/in/abelherreraz/)
 <img align="left" src="./assets/redux.png" width="64px" />
 <img align="left" src="./assets/ruby.png" width="64px" />
 <img align="left" src="./assets/postgresql.png" width="64px" />
-<img align="left" src="./assets/jest.png" width="64px" />
+<img  src="./assets/jest.png" width="64px" />
 
 <br>
 <br>
 
-## Achievements that brougth glory to my guild
+# Achievements that brougth glory to my guild
 
 <br>
 
