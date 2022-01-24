@@ -32,8 +32,6 @@ guild house](https://www.linkedin.com/in/abelherreraz/)
 
 # Behold the trophies of my recent adventures.
 
-<br>
-
 <img align="left" src="./assets/html.png" width="64px" />
 <img align="left" src="./assets/cssl.png" width="64px" />
 <img align="left" src="./assets/js.png" width="64px" />
@@ -41,6 +39,7 @@ guild house](https://www.linkedin.com/in/abelherreraz/)
 <img align="left" src="./assets/redux.png" width="64px" />
 <img align="left" src="./assets/ruby.png" width="64px" />
 <img align="left" src="./assets/postgresql.png" width="64px" />
+
 <img  src="./assets/jest.png" width="64px" />
 
 <br>
