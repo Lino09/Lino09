@@ -1,6 +1,6 @@
-# Greetings Adventurer 👋
+## Greetings Adventurer 👋
 
-## You look like you could use a skilled Web Developer
+### You look like you could use a skilled Web Developer
 ### Worry not! kind Sir/Lady, I got your back!
 <br>
 
