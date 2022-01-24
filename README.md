@@ -1,20 +1,20 @@
 ## Greetings Adventurer 👋
 
-### You look like you could use a skilled Web Developer
-### Worry not! kind Sir/Lady, I got your back!
+### Are you in need of a skilled squire to guide you in the world of web development?
+### Worry not Sir/Lady! It would be my honor to be your guide.
 <br>
 
-- 🔭 I’m currently working creating the mosnt powerful artifacts in React.
+- 🔭 I’m currently forging the most powerful components using React.
 
-- 🌱 I’m currently learning the deepest misteryous of Ruby on Rails realm.
+- 🌱 I’m currently learning the deepest misteries of the Ruby on Rails realm.
 
-- 👯 I’m looking to collaborate on challenging projects to bring 
+- 👯 I’m looking to collaborate on challenging projects that bring 
 honor to my guild.
 
-- 💬 Ask me about Anything! we always can explore new realms to find it out. I will be your squire.
+- 💬 Ask me about Anything! we can always explore new realms to find it out. It would be my honor to be your squire
 
-- 📫 You can reach to me in my [village](https://twitter.com/AbelHerreraZam1) or in my [
-guild house](https://www.linkedin.com/in/abelherreraz/)
+- 📫 You can visit me in my [village](https://twitter.com/AbelHerreraZam1) or in my [
+fortress](https://www.linkedin.com/in/abelherreraz/)
 
 <br>
 <br>
@@ -30,7 +30,7 @@ guild house](https://www.linkedin.com/in/abelherreraz/)
 <br>
 <br>
 
-# Behold the trophies of my recent adventures.
+# Some trophies from my recent adventures.
 
 <img align="left" src="./assets/html.png" width="64px" />
 <img align="left" src="./assets/cssl.png" width="64px" />
@@ -45,7 +45,7 @@ guild house](https://www.linkedin.com/in/abelherreraz/)
 <br>
 <br>
 
-# Achievements that brougth glory to my guild
+# Achievements that brought glory to my guild.
 
 
 <img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44240667" width="128px" />
@@ -58,9 +58,3 @@ guild house](https://www.linkedin.com/in/abelherreraz/)
 
 
 [Portfolio of adventures](https://abel-codes.netlify.app/)
-
-
-
-
-
-
