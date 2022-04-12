@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently forging the most powerful components using React.
 
-- 🌱 I’m currently learning the deepest misteries of the Ruby on Rails realm.
+- 🌱 I’m currently learning the deepest misteries of the NodeJs realm.
 
 - 👯 I’m looking to collaborate on challenging projects that bring 
 honor to my guild.
